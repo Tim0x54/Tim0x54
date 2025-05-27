@@ -1,7 +1,7 @@
 # About me
 
 **Work**  
-Pursuing my degress at TUM.
+Pursuing my degrees at TUM.
 
 **Contact**  
 - https://www.linkedin.com/in/tim-grobecker
