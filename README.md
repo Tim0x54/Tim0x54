@@ -17,7 +17,7 @@ https://apps.apple.com/de/app/gacon-test/id6773680611
 
 ### Escalatr ( iOS app, Entertainment)
 <sup>
-  <img src="https://github.com/user-attachments/assets/a96405ba-e0e7-4bc2-8598-db1dc52df822"
+  <img src="https://github.com/user-attachments/assets/19eb0aac-06c7-49d4-a5d9-b6392521651d"
        align="absmiddle"
        alt="Escalatr App Icon"
        width="40" height="40" />
