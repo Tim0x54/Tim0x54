@@ -1,19 +1,28 @@
 # About me
 
-**Work**  
-Pursuing B.Sc. Computer Science @ TUM  
-B.Sc. Management & Technology @ TUM (Aug 2025)
+**Academic**  
+- B.Sc. Computer Science @ Technical University of Munich (TUM) | [expected 2026/2027]  
+- B.Sc. Management & Technology @ TUM | [completed Aug 2025]
 
 ## Projects
 
-### Escalatr ( iOS App)
+### Gacon Test ( iOS app, Health & Fitness)
+<sup>
+  <img src="https://github.com/user-attachments/assets/9aa2a151-815c-40ff-9d51-0de9b09f319c"
+       align="absmiddle"
+       alt="Gacon Test App Icon"
+       width="40" height="40" />
+</sup>   
+https://apps.apple.com/de/app/gacon-test/id6773680611
+
+### Escalatr ( iOS app, Entertainment)
 <sup>
   <img src="https://github.com/user-attachments/assets/a96405ba-e0e7-4bc2-8598-db1dc52df822"
        align="absmiddle"
        alt="Escalatr App Icon"
        width="40" height="40" />
 </sup>  
-https://apps.apple.com/de/app/escalatr/id6748943783?l=en-GB
+https://apps.apple.com/de/app/escalatr/id6748943783
 
 ### OpenCV Project (Dice Roll Classification)
 <sup>
